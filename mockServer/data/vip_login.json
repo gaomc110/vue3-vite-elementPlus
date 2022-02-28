@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "message": "登录成功",
+  "data": {
+    "token":"vip1111",
+    "userInfo": {
+      "name": "vip",
+      "role": "2",
+      "phone": "1323234231"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**公用样式*/
+.container {
+    width: 1226px;
+    margin: 0 auto;
+}
+
+@responsive {
+    .transition-width {
+        transition-property: width;
+    }
+
+    .flex-center {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .min-height-10 {
+        min-height: 2.5rem;
+    }
+
+    .min-width-32 {
+        min-width: 8rem;
+    }
+
+    .leading-12 {
+        line-height: 3rem;
+    }
+}

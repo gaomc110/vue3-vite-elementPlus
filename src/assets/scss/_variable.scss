@@ -1,0 +1,54 @@
+// 定义标准色
+$button-color:#6195F4;//按钮背景色
+$active-color: #3472ea; //主题色
+$active-color2: #3588CB;
+/* 更换的颜色 */
+$active-color3: #7D0000;
+/* 更换的颜色 */
+$active-color4: #EB6100;
+/* 更换的颜色 */
+
+// 菜单
+$menu-bg: #101125; // 左侧菜单
+$sub-menu-bg: #29293a; // 左侧子菜单背景色
+$menu-text-color: #828590; // 左侧菜单字体颜色
+
+// 常规配色设置
+$colorA: #FF6600 !default; //用于需要突出和强调的文字、按钮和icon
+$colorB: #383738 !default; //用于较为重要的文字信息、内页标题、列表标题等
+$colorC: #666666 !default; //用于普通段落信息 引导词
+$colorD: #999999 !default; //用于辅助、次要的文字信息、普通按钮的描边
+$colorE: #5E5E5E !default; //用于特别弱的文字
+$colorF: #EEF1F6 !default; //用于列表分割线、标签秒变
+$colorG: #ffffff !default; //用于导航栏文字、按钮文字、白色背景
+$colorH: #e5e5e5 !default; //用于上下模块分割线
+$colorI: #000000 !default; //纯黑色背景，用于遮罩层
+$colorJ: #EEF1F6 !default; //列表标题背景色
+$colorK: #FDFDFD !default; //标题背景色
+$colorL: #FAFAFA !default;
+$colorM: #EBEEF5 !default;//表格边框颜色
+
+// 其他颜色
+$ddd: #ddd; // 边框灰色
+$btn-blue:#6195F4; // 蓝色常规按钮
+$table-header-bg: #eef2f6; // table头部背景色
+$border-color: #74afe1; // tab\table边框颜色
+
+//样式规范表
+$min-width:1226px; //容器安全区域宽度
+// 常规字体大小设置
+$font80: 80px; //产品站大标题
+$font38: 38px; //产品站标题
+$font28: 28px; //导航标题
+$font26: 26px; //产品站副标题
+$font24: 24px;
+$font22: 22px;
+$font20: 20px; //用在较为重要的文字、操作按钮
+$font18: 18px; //用于大多数文字
+$font16: 16px; //用于辅助性文字
+$font14: 14px; //用于一般文字
+$font12: 12px; //系统默认大小
+$fontSize: 10; // 定义字体大小变量，根据自己大小进行运算
+
+// 定义标准高度
+$th: 50px;

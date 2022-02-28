@@ -1,0 +1,1 @@
+import{_ as r}from"./index-95fa0fb7.js";import{f as a,o,p as e,C as s}from"./vendor-ad157f17.js";var t=r({data:()=>({})},[["render",function(r,t,f,n,d,i){const u=a("router-view");return o(),e("div",null,[s(u)])}]]);export{t as default};
